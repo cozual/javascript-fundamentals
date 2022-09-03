@@ -21,6 +21,7 @@ let userFix = "Nelson";
 let ageFix = 21;
 let favoriteColorFix = "Purple";
 
+
 // A REAL-LIFE ANALOGY
 // We can easily grasp the concept of a "variable" if we imagine it as a "box" for data, with a uniquely-named sticker on it
 // The variable message can be imagined as a box labeled "message" with the value "Hello!" in it:
